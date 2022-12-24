@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java and algorithms
 - 🌱 I’m currently learning Spring Boot and cloud
 - 💞️ I’m looking to collaborate on anything related to sustainability
-- 📫 How to reach me: toel at toel dot se
+- 📫 How to reach me: toel and then at and after that toel again plus dot and last se
 
 <!---
 toel--/toel-- is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
